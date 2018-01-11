@@ -1,0 +1,167 @@
+[2018-01-05 16:06:22] 2018-01-05 16:06:22 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'app\controllers\ImgController handler class cannot be loaded' in /data1/work/zf/store/public/index.php:110
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('app\\controllers...', 2)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(110): Phalcon\Mvc\Application->handle()
+#3 {main}
+[2018-01-05 16:06:23] 2018-01-05 16:06:23 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'app\controllers\ImgController handler class cannot be loaded' in /data1/work/zf/store/public/index.php:110
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('app\\controllers...', 2)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(110): Phalcon\Mvc\Application->handle()
+#3 {main}
+[2018-01-05 16:06:37] 2018-01-05 16:06:37 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'app\controllers\IndexController handler class cannot be loaded' in /data1/work/zf/store/public/index.php:110
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('app\\controllers...', 2)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(110): Phalcon\Mvc\Application->handle()
+#3 {main}
+[2018-01-05 16:25:28] 2018-01-05 16:25:28 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'app\controllers\ImgController handler class cannot be loaded' in /data1/work/zf/store/public/index.php:110
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('app\\controllers...', 2)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(110): Phalcon\Mvc\Application->handle()
+#3 {main}
+[2018-01-05 16:25:29] 2018-01-05 16:25:29 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'app\controllers\ImgController handler class cannot be loaded' in /data1/work/zf/store/public/index.php:110
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('app\\controllers...', 2)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(110): Phalcon\Mvc\Application->handle()
+#3 {main}
+[2018-01-05 16:25:30] 2018-01-05 16:25:30 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'app\controllers\ImgController handler class cannot be loaded' in /data1/work/zf/store/public/index.php:110
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('app\\controllers...', 2)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(110): Phalcon\Mvc\Application->handle()
+#3 {main}
+[2018-01-05 16:25:34] 2018-01-05 16:25:34 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'app\controllers\AppController handler class cannot be loaded' in /data1/work/zf/store/public/index.php:110
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('app\\controllers...', 2)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(110): Phalcon\Mvc\Application->handle()
+#3 {main}
+[2018-01-05 16:25:34] 2018-01-05 16:25:34 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'app\controllers\ImgController handler class cannot be loaded' in /data1/work/zf/store/public/index.php:110
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('app\\controllers...', 2)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(110): Phalcon\Mvc\Application->handle()
+#3 {main}
+[2018-01-05 16:25:44] 2018-01-05 16:25:44 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'app\controllers\AppController handler class cannot be loaded' in /data1/work/zf/store/public/index.php:110
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('app\\controllers...', 2)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(110): Phalcon\Mvc\Application->handle()
+#3 {main}
+[2018-01-05 16:26:48] 2018-01-05 16:26:48 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'app\controllers\IndexController handler class cannot be loaded' in /data1/work/zf/store/public/index.php:110
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('app\\controllers...', 2)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(110): Phalcon\Mvc\Application->handle()
+#3 {main}
+[2018-01-05 16:27:01] 2018-01-05 16:27:01 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'app\controllers\IndexController handler class cannot be loaded' in /data1/work/zf/store/public/index.php:110
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('app\\controllers...', 2)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(110): Phalcon\Mvc\Application->handle()
+#3 {main}
+[2018-01-05 16:27:12] 2018-01-05 16:27:12 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'app\controllers\IndexController handler class cannot be loaded' in /data1/work/zf/store/public/index.php:110
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('app\\controllers...', 2)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(110): Phalcon\Mvc\Application->handle()
+#3 {main}
+[2018-01-05 16:27:16] 2018-01-05 16:27:16 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'app\controllers\IndexController handler class cannot be loaded' in /data1/work/zf/store/public/index.php:110
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('app\\controllers...', 2)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(110): Phalcon\Mvc\Application->handle()
+#3 {main}
+[2018-01-05 16:27:16] 2018-01-05 16:27:16 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'app\controllers\ImgController handler class cannot be loaded' in /data1/work/zf/store/public/index.php:110
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('app\\controllers...', 2)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(110): Phalcon\Mvc\Application->handle()
+#3 {main}
+[2018-01-05 16:27:17] 2018-01-05 16:27:17 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'app\controllers\ImgController handler class cannot be loaded' in /data1/work/zf/store/public/index.php:110
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('app\\controllers...', 2)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(110): Phalcon\Mvc\Application->handle()
+#3 {main}
+[2018-01-05 16:27:18] 2018-01-05 16:27:18 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'app\controllers\ImgController handler class cannot be loaded' in /data1/work/zf/store/public/index.php:110
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('app\\controllers...', 2)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(110): Phalcon\Mvc\Application->handle()
+#3 {main}
+[2018-01-05 16:27:19] 2018-01-05 16:27:19 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'app\controllers\ImgController handler class cannot be loaded' in /data1/work/zf/store/public/index.php:110
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('app\\controllers...', 2)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(110): Phalcon\Mvc\Application->handle()
+#3 {main}
+[2018-01-05 16:31:31] 2018-01-05 16:31:31 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'app\controllers\ImgController handler class cannot be loaded' in /data1/work/zf/store/public/index.php:110
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('app\\controllers...', 2)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(110): Phalcon\Mvc\Application->handle()
+#3 {main}
+[2018-01-05 16:31:39] 2018-01-05 16:31:39 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'app\controllers\ImgController handler class cannot be loaded' in /data1/work/zf/store/public/index.php:110
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('app\\controllers...', 2)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(110): Phalcon\Mvc\Application->handle()
+#3 {main}
+[2018-01-05 16:31:41] 2018-01-05 16:31:41 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'app\controllers\ImgController handler class cannot be loaded' in /data1/work/zf/store/public/index.php:110
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('app\\controllers...', 2)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(110): Phalcon\Mvc\Application->handle()
+#3 {main}
+[2018-01-05 16:31:45] 2018-01-05 16:31:45 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'app\controllers\ImgController handler class cannot be loaded' in /data1/work/zf/store/public/index.php:110
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('app\\controllers...', 2)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(110): Phalcon\Mvc\Application->handle()
+#3 {main}
+[2018-01-05 16:31:47] 2018-01-05 16:31:47 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'app\controllers\ImgController handler class cannot be loaded' in /data1/work/zf/store/public/index.php:110
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('app\\controllers...', 2)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(110): Phalcon\Mvc\Application->handle()
+#3 {main}
+[2018-01-05 16:49:02] 2018-01-05 16:49:02 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'app\controllers\IndexController handler class cannot be loaded' in /data1/work/zf/store/public/index.php:110
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('app\\controllers...', 2)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(110): Phalcon\Mvc\Application->handle()
+#3 {main}
+[2018-01-05 16:49:30] 2018-01-05 16:49:30 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'Action 'index' was not found on handler 'test2'' in /data1/work/zf/store/public/index.php:110
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('Action 'index' ...', 5)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(110): Phalcon\Mvc\Application->handle()
+#3 {main}
+[2018-01-05 16:49:42] 2018-01-05 16:49:42 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'app\controllers\ImgController handler class cannot be loaded' in /data1/work/zf/store/public/index.php:110
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('app\\controllers...', 2)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(110): Phalcon\Mvc\Application->handle()
+#3 {main}
+[2018-01-05 16:51:05] 2018-01-05 16:51:05 exception 'Phalcon\Application\Exception' with message 'Module 'home' isn't registered in the application container' in /data1/work/zf/store/public/index.php:110
+Stack trace:
+#0 [internal function]: Phalcon\Application->getModule('home')
+#1 /data1/work/zf/store/public/index.php(110): Phalcon\Mvc\Application->handle()
+#2 {main}
+[2018-01-05 16:51:23] 2018-01-05 16:51:23 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'app\controllers\AdminController handler class cannot be loaded' in /data1/work/zf/store/public/index.php:110
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('app\\controllers...', 2)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(110): Phalcon\Mvc\Application->handle()
+#3 {main}
+[2018-01-05 16:51:45] 2018-01-05 16:51:45 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'app\controllers\ImgController handler class cannot be loaded' in /data1/work/zf/store/public/index.php:110
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('app\\controllers...', 2)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(110): Phalcon\Mvc\Application->handle()
+#3 {main}

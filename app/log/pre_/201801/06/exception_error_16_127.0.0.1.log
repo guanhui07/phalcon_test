@@ -1,0 +1,24 @@
+[2018-01-06 16:29:33] 2018-01-06 16:29:33 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'Dispatcher has detected a cyclic routing causing stability problems' in /data1/work/zf/store/public/index.php:73
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('Dispatcher has ...', 1)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(73): Phalcon\Mvc\Application->handle()
+#3 {main}
+[2018-01-06 16:36:48] 2018-01-06 16:36:48 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'app\controllers\IndexController handler class cannot be loaded' in /data1/work/zf/store/public/index.php:68
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('app\\controllers...', 2)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(68): Phalcon\Mvc\Application->handle()
+#3 {main}
+[2018-01-06 16:38:12] 2018-01-06 16:38:12 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'app\controllers\IndexController handler class cannot be loaded' in /data1/work/zf/store/public/index.php:68
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('app\\controllers...', 2)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(68): Phalcon\Mvc\Application->handle()
+#3 {main}
+[2018-01-06 16:41:30] 2018-01-06 16:41:30 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'app\controllers\IndexController handler class cannot be loaded' in /data1/work/zf/store/public/index.php:68
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('app\\controllers...', 2)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(68): Phalcon\Mvc\Application->handle()
+#3 {main}

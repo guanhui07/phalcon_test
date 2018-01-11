@@ -1,0 +1,82 @@
+[2018-01-06 11:24:32] 2018-01-06 11:24:32 exception 'Phalcon\Mvc\Model\Exception' with message 'Scanner: Unknown opcode 58' in /data1/work/zf/store/app/home/controllers/TestController.php:152
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Model\Query->parse()
+#1 [internal function]: Phalcon\Mvc\Model\Query->execute()
+#2 [internal function]: Phalcon\Mvc\Model::find(Array)
+#3 /data1/work/zf/store/app/home/controllers/TestController.php(152): Phalcon\Mvc\Model\Criteria->execute()
+#4 [internal function]: app\home\controllers\TestController->f2Action()
+#5 [internal function]: Phalcon\Dispatcher->callActionMethod(Object(app\home\controllers\TestController), 'f2Action', Array)
+#6 [internal function]: Phalcon\Dispatcher->dispatch()
+#7 /data1/work/zf/store/public/index.php(73): Phalcon\Mvc\Application->handle()
+#8 {main}
+[2018-01-06 11:24:47] 2018-01-06 11:24:47 exception 'Phalcon\Mvc\Model\Exception' with message 'Model 'users' could not be loaded' in /data1/work/zf/store/app/home/controllers/TestController.php:171
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Model\Manager->load('users', true)
+#1 [internal function]: Phalcon\Mvc\Model\Query->_prepareSelect()
+#2 [internal function]: Phalcon\Mvc\Model\Query->parse()
+#3 [internal function]: Phalcon\Mvc\Model\Query->execute()
+#4 /data1/work/zf/store/app/home/controllers/TestController.php(171): Phalcon\Mvc\Model\Manager->executeQuery('select sum(id) ...')
+#5 [internal function]: app\home\controllers\TestController->c2Action()
+#6 [internal function]: Phalcon\Dispatcher->callActionMethod(Object(app\home\controllers\TestController), 'c2Action', Array)
+#7 [internal function]: Phalcon\Dispatcher->dispatch()
+#8 /data1/work/zf/store/public/index.php(73): Phalcon\Mvc\Application->handle()
+#9 {main}
+[2018-01-06 11:26:54] 2018-01-06 11:26:54 exception 'Phalcon\Mvc\Model\Exception' with message 'Model 'users' could not be loaded' in /data1/work/zf/store/app/home/controllers/TestController.php:171
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Model\Manager->load('users', true)
+#1 [internal function]: Phalcon\Mvc\Model\Query->_prepareSelect()
+#2 [internal function]: Phalcon\Mvc\Model\Query->parse()
+#3 [internal function]: Phalcon\Mvc\Model\Query->execute()
+#4 /data1/work/zf/store/app/home/controllers/TestController.php(171): Phalcon\Mvc\Model\Manager->executeQuery('select sum(id) ...')
+#5 [internal function]: app\home\controllers\TestController->c2Action()
+#6 [internal function]: Phalcon\Dispatcher->callActionMethod(Object(app\home\controllers\TestController), 'c2Action', Array)
+#7 [internal function]: Phalcon\Dispatcher->dispatch()
+#8 /data1/work/zf/store/public/index.php(73): Phalcon\Mvc\Application->handle()
+#9 {main}
+[2018-01-06 11:28:14] 2018-01-06 11:28:14 exception 'Phalcon\Mvc\Model\Exception' with message 'Model 'users' could not be loaded' in /data1/work/zf/store/app/home/controllers/TestController.php:198
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Model\Manager->load('users', true)
+#1 [internal function]: Phalcon\Mvc\Model\Query->_prepareInsert()
+#2 [internal function]: Phalcon\Mvc\Model\Query->parse()
+#3 [internal function]: Phalcon\Mvc\Model\Query->execute()
+#4 /data1/work/zf/store/app/home/controllers/TestController.php(198): Phalcon\Mvc\Model\Manager->executeQuery('INSERT INTO use...')
+#5 [internal function]: app\home\controllers\TestController->insert2Action()
+#6 [internal function]: Phalcon\Dispatcher->callActionMethod(Object(app\home\controllers\TestController), 'insert2Action', Array)
+#7 [internal function]: Phalcon\Dispatcher->dispatch()
+#8 /data1/work/zf/store/public/index.php(73): Phalcon\Mvc\Application->handle()
+#9 {main}
+[2018-01-06 11:33:21] 2018-01-06 11:33:21 exception 'Phalcon\Mvc\Model\Exception' with message 'Model 'users' could not be loaded' in /data1/work/zf/store/app/home/controllers/TestController.php:198
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Model\Manager->load('users', true)
+#1 [internal function]: Phalcon\Mvc\Model\Query->_prepareInsert()
+#2 [internal function]: Phalcon\Mvc\Model\Query->parse()
+#3 [internal function]: Phalcon\Mvc\Model\Query->execute()
+#4 /data1/work/zf/store/app/home/controllers/TestController.php(198): Phalcon\Mvc\Model\Manager->executeQuery('INSERT INTO use...')
+#5 [internal function]: app\home\controllers\TestController->insert2Action()
+#6 [internal function]: Phalcon\Dispatcher->callActionMethod(Object(app\home\controllers\TestController), 'insert2Action', Array)
+#7 [internal function]: Phalcon\Dispatcher->dispatch()
+#8 /data1/work/zf/store/public/index.php(73): Phalcon\Mvc\Application->handle()
+#9 {main}
+[2018-01-06 11:34:51] 2018-01-06 11:34:51 exception 'Phalcon\Mvc\Model\Exception' with message 'Model 'users' could not be loaded' in /data1/work/zf/store/app/home/controllers/TestController.php:312
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Model\Manager->load('users', true)
+#1 [internal function]: Phalcon\Mvc\Model\Query->_prepareSelect()
+#2 [internal function]: Phalcon\Mvc\Model\Query->parse()
+#3 /data1/work/zf/store/app/home/controllers/TestController.php(312): Phalcon\Mvc\Model\Query->execute()
+#4 [internal function]: app\home\controllers\TestController->query1Action()
+#5 [internal function]: Phalcon\Dispatcher->callActionMethod(Object(app\home\controllers\TestController), 'query1Action', Array)
+#6 [internal function]: Phalcon\Dispatcher->dispatch()
+#7 /data1/work/zf/store/public/index.php(73): Phalcon\Mvc\Application->handle()
+#8 {main}
+[2018-01-06 11:36:28] 2018-01-06 11:36:28 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'Dispatcher has detected a cyclic routing causing stability problems' in /data1/work/zf/store/public/index.php:73
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('Dispatcher has ...', 1)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(73): Phalcon\Mvc\Application->handle()
+#3 {main}
+[2018-01-06 11:36:58] 2018-01-06 11:36:58 exception 'Phalcon\Mvc\Dispatcher\Exception' with message 'Dispatcher has detected a cyclic routing causing stability problems' in /data1/work/zf/store/public/index.php:73
+Stack trace:
+#0 [internal function]: Phalcon\Mvc\Dispatcher->_throwDispatchException('Dispatcher has ...', 1)
+#1 [internal function]: Phalcon\Dispatcher->dispatch()
+#2 /data1/work/zf/store/public/index.php(73): Phalcon\Mvc\Application->handle()
+#3 {main}

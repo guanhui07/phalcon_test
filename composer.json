@@ -1,0 +1,21 @@
+{
+  "name" : "frame",
+  "description" : "PHP Framework",
+  "type": "Framework",
+  "keywords":[
+    "PHP","Framework"
+  ],
+  "require":{
+    "php":">=5.4.0",
+    "fabpot/php-cs-fixer":"*",
+    "phpoffice/phpspreadsheet": "^1.0",
+    "phalcon/devtools": "~3.2"
+
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
+  }
+}
