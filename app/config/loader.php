@@ -25,6 +25,6 @@ $loader->registerNamespaces(array(
 //$di =  FactoryDefault这个对象 入口文件 不同module 设置默认命名空间 不同
 $di->set('dispatcher', function () {
     $dispatcher = new Phalcon\Mvc\Dispatcher();
-    $dispatcher->setDefaultNamespace('app\controllers');
+    $dispatcher->setDefaultNamespace('app\home\controllers');
     return $dispatcher;
 });
